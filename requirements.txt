@@ -1,0 +1,6 @@
+torch>=2.4.0
+langchain>=0.2.14
+langchain-community>=0.2.12
+python-dotenv~=1.0.1
+qianfan>=0.4.6
+pydantic~=2.8.2
