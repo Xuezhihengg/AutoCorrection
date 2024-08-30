@@ -4,7 +4,7 @@
 
 # 项目结构
 
-.
+.  
 ├── llm_func.py  
 ├── main.py  
 ├── requirements.txt  
